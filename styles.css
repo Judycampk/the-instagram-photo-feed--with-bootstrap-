@@ -1,0 +1,64 @@
+.header{
+    font-family:'Lobster', cursive;
+    font-size: 3vh;
+
+}
+.icon{
+    padding-left: 30vh;
+    padding-top: 10px;
+    color: #7e7d7d;
+}
+.icon2{
+    padding-top: 10px;
+    padding-right: 5px;
+}
+.bottom{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.menu{
+    margin-right: 10vh;
+}
+.buttomcenter{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.post-container{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px; 
+    padding-top: 20px;
+    color: rgb(136, 135, 135);
+}
+.fa-heart{
+    float: left;
+    margin-left: 20px;
+    margin-right: 30px;
+    margin-top: 30px;
+    color:rgb(141, 141, 141);
+}
+.comment{
+    float: left;
+    margin-right: 10px;
+    margin-top: 25px;
+    color:rgb(141, 141, 141);
+}
+.points{
+    float: right;
+    margin-top: 25px;
+    margin-right: 20px;
+    color:rgb(141, 141, 141);
+}
+.card_style{
+    margin-top: 40px;
+}
+.card_styleone{
+    padding-top: 30px;
+}
+.cont{
+    background-color: silver;
+    margin-left: 0;
+    padding: 0;
+}
